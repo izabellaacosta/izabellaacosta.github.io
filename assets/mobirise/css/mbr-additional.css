@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -482,28 +481,24 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#content6-18 P {
-  color: #ffffff;
-  text-align: center;
-}
 #header4-10 .mbr-section-title {
   text-align: center;
 }
-#msg-box6-j .mbr-section-title,
-#msg-box6-j .lead p {
-  color: #fff;
-}
-#msg-box6-j H3 {
+#header2-1b .mbr-section-title {
   text-align: center;
 }
-#msg-box6-j B {
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+#features7-1d .card-subtitle {
+  color: #bcbcbc;
 }
-#msg-box6-j P {
-  font-size: 18px;
-  text-align: center;
+#features7-1d .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
+#features7-1d P {
+  color: #ffffff;
+}
+#features7-1d H4 {
+  color: #ffffff;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
