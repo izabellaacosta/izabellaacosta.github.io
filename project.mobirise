@@ -261,7 +261,7 @@
           "_anchor": "features7-1d",
           "_params": {
             "iconsBgColor": "#000000",
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
