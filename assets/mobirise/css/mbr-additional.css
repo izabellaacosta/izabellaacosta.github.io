@@ -486,6 +486,10 @@ h6,
 }
 #header2-1b .mbr-section-title {
   text-align: center;
+  font-size: 46px;
+}
+#header2-1b .mbr-section-text {
+  font-size: 18px;
 }
 #features7-1d .card-subtitle {
   color: #bcbcbc;
