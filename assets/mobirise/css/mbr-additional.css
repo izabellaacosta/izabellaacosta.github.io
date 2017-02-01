@@ -428,11 +428,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.2rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -481,8 +481,8 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header4-10 .mbr-section-title {
-  text-align: center;
+#header1-1j .mbr-section-lead {
+  color: #efefef;
 }
 #header2-1b .mbr-section-title {
   text-align: center;
