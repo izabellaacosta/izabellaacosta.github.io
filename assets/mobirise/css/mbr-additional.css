@@ -843,7 +843,10 @@ h6,
   background-color: #ffffff;
 }
 #form1-p .form-control-label {
-  color: #28324e;
+  color: #cccccc;
+}
+#form1-p SMALL {
+  color: #cccccc;
 }
 #contacts1-1h STRONG {
   color: #ffffff;

@@ -159,8 +159,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#431a19",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -199,7 +199,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#8c8c8c",
+            "bgColor": "#787878",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -275,9 +275,9 @@
               "color": "#fff"
             }
           },
-          "title4": "Become an Optometrist",
+          "title4": "Become an Optometrist/ Opthomoligist",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always been intrested in how the eye exams were done and how they are able to get so precise to getting someone's vision perfect. I want to help people understand why they need glasses and how to help them see the world more clearer. In my futre I see myself becoming an optometrist or optomalogist whihc is a higher field of examining eyes.&nbsp;",
+          "caption4": "I have always been intrested in how the eye exams were done and how they are able to get so precise to getting someone's vision perfect. I want to help people understand why they need glasses and how to help them see the world more clearer. In my futre I see myself becoming an optometrist or optomalogist which is a higher field of examining eyes.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1100,18 +1100,21 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#28324e"
+              "color": "#cccccc"
+            },
+            "SMALL": {
+              "color": "#cccccc"
             }
           },
           "_anchor": "form1-p",
           "_params": {
-            "labelsColor": "#28324e",
+            "labelsColor": "#cccccc",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#787878",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
