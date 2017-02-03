@@ -143,7 +143,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "25px"
             }
           },
           "_anchor": "header1-1j",
@@ -167,7 +168,7 @@
             "showButtons": false
           },
           "title": "Izabella Marie Acosta",
-          "text": "Its a look",
+          "text": "<b>Its a look</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -371,7 +372,7 @@
             }
           },
           "title": "A little bit about me",
-          "text": "When I was 11 in 6th grade, I had thought that Mr.Pate's Technology class was going to be about typing and keyboarding.&nbsp;However in that same day as he was explaining the cirriculum I started realizing it was quite the opposite. His class showed how much I enjoyed working in graphic design. As we started learning Photoshop and other programs I realized that I had an intrest and enjoyed graphic design more than I thought. When I was growing up I really didnt have many intrest in one specific thing. So when I was able to start doing graphic design and staying with it for 3+ years I felt accomplished and proud that I had an intrest in a field that is growing and will keep growing throughout the next years. As I start to advance into my life, I can see myself portraying a career having to do with technology and the skills I have obtained. In my future I want my profession in the medical field as a Optometrist has evolved in way they have examined eyes and are to include more technology to find cures and help peoples vision intrest me. I also want to take my hobbie of baking and own my own cupcake and pastries shop.&nbsp;",
+          "text": "When I was 11 in 6th grade, I had thought that Mr.Pate's Technology class was going to be about typing and keyboarding.&nbsp;However in that same day as he was explaining the cirriculum I started realizing it was quite the opposite. His class showed how much I enjoyed working in graphic design. As we started learning Photoshop and other programs I realized that I had an intrest and enjoyed graphic design more than I thought. When I was growing up I really didnt have many intrest in one specific thing. So when I was able to start doing graphic design and staying with it for 3+ years I felt accomplished and proud that I had an intrest in a field that is growing and will keep growing throughout the next years. As I start to advance into my life, I can see myself portraying a career having to do with technology and the skills I have obtained. In my future I want my profession in the medical field as a Optometrist has evolved in way they have examined eyes and are to include more technology to find cures and help peoples vision intrest me. I also want to take my hobbie of doing makeup and become a makeup artist where in the future i can digitally show the client what the makeup would like before I start doing the clients makeup.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content1-1c\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
