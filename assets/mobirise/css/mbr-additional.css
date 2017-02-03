@@ -484,25 +484,25 @@ h6,
 #header1-1j .mbr-section-lead {
   color: #efefef;
 }
-#header2-1b .mbr-section-title {
-  text-align: center;
-  font-size: 46px;
-}
-#header2-1b .mbr-section-text {
-  font-size: 18px;
-}
 #features7-1d .card-subtitle {
   color: #bcbcbc;
 }
 #features7-1d .iconbox {
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #431a19;
+  border-color: #431a19;
 }
 #features7-1d P {
   color: #ffffff;
 }
 #features7-1d H4 {
   color: #ffffff;
+}
+#header2-1b .mbr-section-title {
+  text-align: center;
+  font-size: 46px;
+}
+#header2-1b .mbr-section-text {
+  font-size: 18px;
 }
 #contacts1-1h STRONG {
   color: #ffffff;
