@@ -983,13 +983,6 @@ h6,
 #menu-n .close-icon::after {
   background-color: #ffffff;
 }
-#features4-1f .card-subtitle {
-  color: #5b5b5b;
-}
-#features4-1f .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
 
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
@@ -1127,4 +1120,76 @@ h6,
 #menu-16 .close-icon::before,
 #menu-16 .close-icon::after {
   background-color: #ffffff;
+}
+
+#menu-1q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1q .navbar-caption {
+  color: #ffffff;
+}
+#menu-1q .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1q .link,
+#menu-1q .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-1q .link {
+  font-size: 0.95rem;
+}
+#menu-1q .dropdown-item,
+#menu-1q .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-1q .link:hover,
+#menu-1q .dropdown-item:hover,
+#menu-1q .link:focus,
+#menu-1q .dropdown-item:focus {
+  color: #28324e;
+}
+#menu-1q .link[aria-expanded="true"],
+#menu-1q .dropdown-menu {
+  background: #1e0c0b;
+}
+#menu-1q .nav-dropdown-sm .link:focus,
+#menu-1q .nav-dropdown-sm .link:hover,
+#menu-1q .nav-dropdown-sm .dropdown-item:focus,
+#menu-1q .nav-dropdown-sm .dropdown-item:hover {
+  background: #381615!important;
+}
+#menu-1q .navbar,
+#menu-1q .nav-dropdown-sm,
+#menu-1q .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1q .nav-dropdown-sm .dropdown-menu {
+  background: #431a19;
+}
+#menu-1q .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1q .bg-color.transparent.opened .link:hover,
+#menu-1q .bg-color.transparent.opened .link:focus {
+  color: #28324e;
+}
+#menu-1q .link[aria-expanded="true"],
+#menu-1q .dropdown-item[aria-expanded="true"] {
+  color: #28324e!important;
+}
+#menu-1q.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1q .close-icon::before,
+#menu-1q .close-icon::after {
+  background-color: #ffffff;
+}
+#contacts1-1r STRONG {
+  color: #ffffff;
 }
