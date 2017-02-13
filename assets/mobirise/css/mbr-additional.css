@@ -485,6 +485,10 @@ h6,
   color: #efefef;
   font-size: 25px;
 }
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-1d .card-subtitle {
   color: #bcbcbc;
 }
@@ -497,6 +501,10 @@ h6,
 }
 #features7-1d H4 {
   color: #ffffff;
+}
+#header3-1u .mbr-section-title,
+#header3-1u .mbr-section-subtitle {
+  text-align: center;
 }
 #header2-1b .mbr-section-title {
   text-align: center;
