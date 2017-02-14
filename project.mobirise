@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "name": "Izabella Acosta",
     "theme": {
       "name": "mobirise3",
@@ -1808,7 +1808,7 @@
               "src": "@PROJECT_PATH@/assets/images/signatures-153x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2020,7 +2020,7 @@
             "imageSize": "21",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/47327882-marble-wallpaper-2000x1125.jpg",
+            "bgImage": "",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
