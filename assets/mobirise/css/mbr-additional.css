@@ -493,6 +493,22 @@ h6,
 #header3-1u .mbr-section-subtitle {
   text-align: center;
 }
+#content8-27 .mbr-section-title,
+#content8-27 p {
+  text-align: right;
+  color: #fff;
+}
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2b SMALL {
+  text-align: right;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1251,6 +1267,13 @@ h6,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
 }
+#header2-25 .mbr-section-text {
+  text-align: left;
+}
+#header3-2c .mbr-section-title,
+#header3-2c .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-21 .card-subtitle {
   color: #bcbcbc;
 }
@@ -1267,14 +1290,4 @@ h6,
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
-}
-#header2-25 .mbr-section-text {
-  text-align: left;
-}
-#header3-22 .mbr-section-title,
-#header3-22 .mbr-section-subtitle {
-  text-align: center;
-}
-#contacts4-24 STRONG {
-  color: #ffffff;
 }
