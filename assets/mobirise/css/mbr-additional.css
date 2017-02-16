@@ -1264,16 +1264,16 @@ h6,
 #features7-21 H4 {
   color: #ffffff;
 }
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
+#header2-25 .mbr-section-text {
+  text-align: left;
+}
 #header3-22 .mbr-section-title,
 #header3-22 .mbr-section-subtitle {
   text-align: center;
-}
-#header2-23 .mbr-section-title {
-  text-align: center;
-  font-size: 46px;
-}
-#header2-23 .mbr-section-text {
-  font-size: 18px;
 }
 #contacts4-24 STRONG {
   color: #ffffff;
