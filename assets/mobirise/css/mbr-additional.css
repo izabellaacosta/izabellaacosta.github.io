@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -482,14 +483,6 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-1j .mbr-section-lead {
-  color: #efefef;
-  font-size: 25px;
-}
-#header1-1j .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 80px;
-}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
@@ -497,6 +490,10 @@ h6,
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
   text-align: center;
+}
+#header1-2i .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 80px;
 }
 #content8-27 .mbr-section-title,
 #content8-27 p {
