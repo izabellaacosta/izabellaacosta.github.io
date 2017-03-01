@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -425,7 +426,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.95rem;
@@ -485,6 +486,10 @@ h6,
   color: #efefef;
   font-size: 25px;
 }
+#header1-1j .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 80px;
+}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
@@ -508,7 +513,11 @@ h6,
 }
 #header3-2b SMALL {
   text-align: right;
-  font-size: 23px;
+  font-size: 25px;
+}
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
