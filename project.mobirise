@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "name": "Izabella Acosta",
     "theme": {
       "name": "mobirise3",
@@ -2091,18 +2091,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#a3a1a1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#a3a1a1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2117,7 +2117,7 @@
               "background": "#431a19"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#a3a1a1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2137,7 +2137,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#a3a1a1"
             }
           },
           "_name": "menu",
@@ -2165,7 +2165,7 @@
               "src": "@PROJECT_PATH@/assets/images/signatures-153x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "introduction.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
