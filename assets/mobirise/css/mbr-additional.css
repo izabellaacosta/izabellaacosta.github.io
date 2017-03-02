@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -422,19 +422,19 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #a3a1a1;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #a3a1a1;
-  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-family: 'Lora', serif;
 }
 #menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -459,7 +459,7 @@ h6,
   background: #431a19;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #a3a1a1;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -481,28 +481,19 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #a3a1a1;
-}
-#header3-1t .mbr-section-title,
-#header3-1t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1u .mbr-section-title,
-#header3-1u .mbr-section-subtitle {
-  text-align: center;
+  background-color: #ffffff;
 }
 #header1-2i .mbr-section-title {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 80px;
+  color: #ffffff;
 }
-#header3-2j .mbr-section-title,
-#header3-2j .mbr-section-subtitle {
+#header1-2i .mbr-section-lead {
+  color: #ffffff;
+}
+#header3-2m .mbr-section-title,
+#header3-2m .mbr-section-subtitle {
   text-align: center;
-}
-#content8-27 .mbr-section-title,
-#content8-27 p {
-  text-align: right;
-  color: #fff;
 }
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
@@ -515,6 +506,16 @@ h6,
 #header3-2b SMALL {
   text-align: right;
   font-size: 25px;
+  color: #ffffff;
+}
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
+}
+#content8-27 .mbr-section-title,
+#content8-27 p {
+  text-align: right;
+  color: #fff;
 }
 #header3-2h .mbr-section-title,
 #header3-2h .mbr-section-subtitle {
