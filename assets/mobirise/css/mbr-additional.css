@@ -423,11 +423,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .link {
@@ -445,22 +445,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #000000;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -482,7 +482,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #header1-2i .mbr-section-title {
   font-family: 'Roboto Condensed', sans-serif;
@@ -491,15 +491,6 @@ h6,
 }
 #header1-2i .mbr-section-lead {
   color: #ffffff;
-}
-#header3-2m .mbr-section-title,
-#header3-2m .mbr-section-subtitle {
-  text-align: center;
-}
-#content8-27 .mbr-section-title,
-#content8-27 p {
-  text-align: right;
-  color: #fff;
 }
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
@@ -1150,11 +1141,11 @@ h6,
   color: #ffffff;
 }
 #menu-1y .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-1y .link,
 #menu-1y .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #menu-1y .link {
@@ -1172,22 +1163,22 @@ h6,
 }
 #menu-1y .link[aria-expanded="true"],
 #menu-1y .dropdown-menu {
-  background: #000000;
+  background: #e6e6e6;
 }
 #menu-1y .nav-dropdown-sm .link:focus,
 #menu-1y .nav-dropdown-sm .link:hover,
 #menu-1y .nav-dropdown-sm .dropdown-item:focus,
 #menu-1y .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #f7f7f7!important;
 }
 #menu-1y .navbar,
 #menu-1y .nav-dropdown-sm,
 #menu-1y .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1y .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #ffffff;
 }
 #menu-1y .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-1y .bg-color.transparent.opened .link {
@@ -1209,7 +1200,7 @@ h6,
 }
 #menu-1y .close-icon::before,
 #menu-1y .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
@@ -1217,6 +1208,7 @@ h6,
 }
 #header2-25 .mbr-section-text {
   text-align: left;
+  color: #efefef;
 }
 #header3-2c .mbr-section-title,
 #header3-2c .mbr-section-subtitle {
