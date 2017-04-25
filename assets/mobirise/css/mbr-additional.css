@@ -496,6 +496,13 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
 }
+#header3-2m .mbr-section-title,
+#header3-2m .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box4-2z H3 {
+  color: #ffffff;
+}
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
   text-align: center;
@@ -1001,6 +1008,75 @@ h6,
 #menu-14 .close-icon::before,
 #menu-14 .close-icon::after {
   background-color: #ffffff;
+}
+
+#menu-16 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-16 .navbar-caption {
+  color: #ffffff;
+}
+#menu-16 .navbar-toggler {
+  color: #a3a1a1;
+}
+#menu-16 .link,
+#menu-16 .dropdown-item {
+  color: #a3a1a1;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-16 .link {
+  font-size: 1rem;
+}
+#menu-16 .dropdown-item,
+#menu-16 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-16 .link:hover,
+#menu-16 .dropdown-item:hover,
+#menu-16 .link:focus,
+#menu-16 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-menu {
+  background: #1e0c0b;
+}
+#menu-16 .nav-dropdown-sm .link:focus,
+#menu-16 .nav-dropdown-sm .link:hover,
+#menu-16 .nav-dropdown-sm .dropdown-item:focus,
+#menu-16 .nav-dropdown-sm .dropdown-item:hover {
+  background: #381615!important;
+}
+#menu-16 .navbar,
+#menu-16 .nav-dropdown-sm,
+#menu-16 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-16 .nav-dropdown-sm .dropdown-menu {
+  background: #431a19;
+}
+#menu-16 .bg-color.transparent .link {
+  color: #a3a1a1;
+  transition: none;
+}
+#menu-16 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-16 .bg-color.transparent.opened .link:hover,
+#menu-16 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-item[aria-expanded="true"] {
+  color: #28324e!important;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-16 .close-icon::before,
+#menu-16 .close-icon::after {
+  background-color: #a3a1a1;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
