@@ -433,11 +433,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -1085,18 +1085,18 @@ h6,
   color: #ffffff;
 }
 #menu-6 .navbar-toggler {
-  color: #a3a1a1;
+  color: #ffffff;
 }
 #menu-6 .link,
 #menu-6 .dropdown-item {
-  color: #a3a1a1;
+  color: #ffffff;
 }
 #menu-6 .link {
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.029rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -1121,7 +1121,7 @@ h6,
   background: #431a19;
 }
 #menu-6 .bg-color.transparent .link {
-  color: #a3a1a1;
+  color: #ffffff;
   transition: none;
 }
 #menu-6 .bg-color.transparent.opened .link {
@@ -1143,7 +1143,7 @@ h6,
 }
 #menu-6 .close-icon::before,
 #menu-6 .close-icon::after {
-  background-color: #a3a1a1;
+  background-color: #ffffff;
 }
 #header2-25 .mbr-section-text {
   text-align: left;
@@ -1159,8 +1159,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-21 .iconbox {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #548389;
+  border-color: #548389;
 }
 #features7-21 P {
   color: #ffffff;
